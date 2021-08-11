@@ -1,0 +1,5 @@
+[package]
+name = "Rust_Quiz"
+authors = ["Joshua Vaughan <josh@bappy0x.me>"]
+version = "0.1.0"
+edition = "2018"
